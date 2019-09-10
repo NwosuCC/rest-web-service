@@ -1,1 +1,4 @@
-# rest-web-service
+# REST Web Service
+
+## Stack
+- Java / Spring Boot
